@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Movie">Movie</string>
+    <string name="Description">Description</string>
+    <string name="upcoming_movie">Upcoming Movie</string>
+    <string name="top_rated_movie">Top Rated Movie</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_movie">Now Playing Movie</string>
+</resources>
